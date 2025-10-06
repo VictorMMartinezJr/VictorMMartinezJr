@@ -6,7 +6,7 @@
 
 🚀 I love learning and implementing real-world projects that bridge creativity and technology.
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=victormmartinezjr&show_icons=true&commits_year=2025&theme=midnight-purple)](https://github.com/victormmartinezjr/github-readme-stats)<br/>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=victormmartinezjr&show_icons=true&commits_year=2025&theme=midnight-purple&hide=contribs,prs)](https://github.com/victormmartinezjr/github-readme-stats)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=victormmartinezjr&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
