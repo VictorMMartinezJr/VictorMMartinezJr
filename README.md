@@ -1,7 +1,7 @@
 ### Hey there 👋 I'm Victor!
-🥇 **2026 SkillsUSA Georgia State Champion in Computer Programming**
-
 🧑🏻‍💻 **Software Engineer | Full Stack Developer**
+
+🥇 **2026 SkillsUSA Georgia State Champion in Computer Programming**
 
 🎓 **AAS in Computer Programming @ Gwinnett Technical College (4.0 GPA)**
 
