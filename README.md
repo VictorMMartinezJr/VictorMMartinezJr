@@ -12,10 +12,6 @@
 * **State Gold Medalist:** Ranked #1 in Georgia (SkillsUSA 2026) for enterprise-level Java development. 
 * **Academic Excellence:** Maintaining a 4.0 GPA across Associate (Gwinnett Tech) and Bachelor's (KSU) studies.
 
-### 🚀 About Me
-
-🚀 I specialize in building robust, scalable systems that bridge creativity and technology. Whether it's high-pressure algorithmic challenges or full-stack web applications, I focus on clean code, efficiency, and industry-standard best practices.
-
 # 💻 Tech Stack
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
