@@ -1,15 +1,15 @@
 ### Hey there 👋 I'm Victor!
 🧑🏻‍💻 **Software Engineer | Full Stack Developer**
 
+🥉 **2026 SkillsUSA National Bronze Medalist in Computer Programming**
 🥇 **2026 SkillsUSA Georgia State Champion in Computer Programming**
 
 🎓 **AAS in Computer Programming @ Gwinnett Technical College (4.0 GPA)**
-
 📚 **BS in Computer Science @ Kennesaw State University (In Progress / 4.0 GPA)**
 
 ### 🏆 Achievement Spotlight
+* **National Bronze Medalist:** Ranked #3 in the United States (SkillsUSA 2026) out of top state champions in advanced computer programming.
 * **State Gold Medalist:** Ranked #1 in Georgia (SkillsUSA 2026) for enterprise-level Java development. 
-* **National Qualifier:** Currently preparing for the 2026 National Leadership & Skills Conference (NLSC) in Atlanta.
 * **Academic Excellence:** Maintaining a 4.0 GPA across Associate (Gwinnett Tech) and Bachelor's (KSU) studies.
 
 ### 🚀 About Me
